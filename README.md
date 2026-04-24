@@ -6,6 +6,12 @@ Aplicación web desarrollada en React.js para la búsqueda y consulta de informa
 
 La aplicación permite a los usuarios buscar medicamentos por nombre y obtener información detallada sobre composición, fabricante, forma farmacéutica, indicaciones y advertencias importantes.
 
+## Deploy
+https://programacion2-2-dlel.vercel.app/
+
+## Repositorio
+https://github.com/jospina04/Programacion2.2
+
 ## ✨ Características Implementadas
 
 ### ✅ Requisitos Cumplidos
